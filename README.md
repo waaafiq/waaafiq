@@ -31,7 +31,6 @@
 ### 📊 Stats
 <div align="center">
 
-![stats](https://github-readme-stats.vercel.app/api?username=waaafiq&show_icons=true&theme=tokyonight&hide_border=true)
 ![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=waaafiq&layout=compact&theme=tokyonight&hide_border=true)
 
 ![streak](https://streak-stats.demolab.com?user=waaafiq&theme=tokyonight&hide_border=true)
