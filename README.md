@@ -2,9 +2,6 @@
 
 ![header](header-snow.svg)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wafiq-hairulnizal-0a0a393b9/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://waaafiq-work.vercel.app/)
-
 </div>
 
 <img src="spongebob.gif" align="right" width="280" alt="SpongeBob typing furiously" />
@@ -54,6 +51,24 @@
 
 <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=waaafiq&layout=compact&theme=transparent&title_color=4a9eda&text_color=8ba3ba&hide_border=true" alt="Top languages" />
 <img height="150" src="https://streak-stats.demolab.com?user=waaafiq&theme=transparent&hide_border=true" alt="GitHub streak" />
+
+</div>
+
+### 👁️👁️ Contacts
+
+<div align="center">
+
+Always happy to chat about design, frontend or guitar 🎸
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wafiq-hairulnizal-0a0a393b9/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://waaafiq-work.vercel.app/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hakeemwafiq04@gmail.com)
+
+<sub>hakeemwafiq04@gmail.com</sub>
+
+</div>
+
+<div align="center">
 
 ![footer](footer-snow.svg)
 
