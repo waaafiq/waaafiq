@@ -31,18 +31,21 @@
 ### 🧰 Toolbox
 
 **Design**<br />
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![SPSS](https://img.shields.io/badge/IBM%20SPSS-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
+<img src="https://skillicons.dev/icons?i=figma" width="48" alt="Figma" title="Figma" />&nbsp;
+<img src="icons/affinity.svg" width="48" alt="Affinity by Canva" title="Affinity by Canva" />&nbsp;
+<img src="https://skillicons.dev/icons?i=ai" width="48" alt="Adobe Illustrator" title="Adobe Illustrator" />&nbsp;
+<img src="https://skillicons.dev/icons?i=ae" width="48" alt="Adobe After Effects" title="Adobe After Effects" />&nbsp;
+<img src="icons/spss.svg" width="48" alt="IBM SPSS" title="IBM SPSS" />
 
 **Build**<br />
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<img src="https://skillicons.dev/icons?i=ts" width="48" alt="TypeScript" title="TypeScript" />&nbsp;
+<img src="https://skillicons.dev/icons?i=js" width="48" alt="JavaScript" title="JavaScript" />&nbsp;
+<img src="https://skillicons.dev/icons?i=react" width="48" alt="React" title="React" />&nbsp;
+<img src="https://skillicons.dev/icons?i=html" width="48" alt="HTML" title="HTML" />&nbsp;
+<img src="https://skillicons.dev/icons?i=css" width="48" alt="CSS" title="CSS" />&nbsp;
+<img src="https://skillicons.dev/icons?i=py" width="48" alt="Python" title="Python" />&nbsp;
+<img src="https://skillicons.dev/icons?i=vercel" width="48" alt="Vercel" title="Vercel" />&nbsp;
+<img src="https://skillicons.dev/icons?i=git" width="48" alt="Git" title="Git" />
 
 ### 📊 Stats
 
