@@ -10,13 +10,11 @@
 ### 🧑‍💻 About me
 <img src="spongebob.gif" align="right" width="260" alt="SpongeBob typing furiously" />
 
-- 🇲🇾 From **Malaysia**, studying in Korea
+- 🇲🇾 Malaysian based in Korea
 - 🎓 Studying **ICT Convergence** at **Hanyang University ERICA**
 - 🔭 Currently working on:
   - 🗺️ **ERICA Nav**, a campus navigation app for Hanyang ERICA
   - 🎸 **AI Guitar Coach**, real-time guitar coaching with pitch detection
-- ⚽ Worked on UI design and frontend for **[Bolahh](https://bolahh.com)**, a Malaysian futsal booking and player progression platform
-- 🌐 Portfolio: [waaafiq-work.vercel.app](https://waaafiq-work.vercel.app/)
 
 ### 🛠️ Tech
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
