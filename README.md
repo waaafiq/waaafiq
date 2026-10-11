@@ -8,6 +8,8 @@
 </div>
 
 ### 🧑‍💻 About me
+<img src="spongebob.gif" align="right" width="260" alt="SpongeBob typing furiously" />
+
 - 🇲🇾 From **Malaysia**, studying in Korea
 - 🎓 Studying **ICT Convergence** at **Hanyang University ERICA**
 - 🔭 Currently working on:
