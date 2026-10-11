@@ -13,8 +13,6 @@
 
 ### Apa khabar? 👋
 
-I'm Wafiq, a **UI/UX designer who codes**. I like the whole journey from *"why is this confusing?"* to a screen that just feels right: talking to users, finding the real problem, then sweating the spacing, motion and tiny details until it clicks.
-
 - 🇲🇾 Malaysian based in Korea · BM / EN / 한국어
 - 🎓 ICT Convergence @ **Hanyang University ERICA**
 - 🎨 UI/UX design, creative frontend & graphic design
@@ -22,14 +20,6 @@ I'm Wafiq, a **UI/UX designer who codes**. I like the whole journey from *"why i
 - 🌱 Exploring AI, computer vision, 3D, technical art, automation & cloud
 
 <br clear="right" />
-
-### ✏️ How I work
-
-<div align="center">
-
-**🔍 Research** &nbsp;→&nbsp; **📐 Wireframe** &nbsp;→&nbsp; **🎨 Prototype** &nbsp;→&nbsp; **💻 Build** &nbsp;→&nbsp; **🔁 Test & polish**
-
-</div>
 
 ### 📌 Selected work
 
@@ -42,11 +32,11 @@ I'm Wafiq, a **UI/UX designer who codes**. I like the whole journey from *"why i
 
 ### 🧰 Toolbox
 
-**Design** &nbsp;
+**Design**<br />
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![SPSS](https://img.shields.io/badge/IBM%20SPSS-052FAD?style=flat-square&logo=ibm&logoColor=white)
 
-**Build** &nbsp;
+**Build**<br />
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
@@ -55,8 +45,6 @@ I'm Wafiq, a **UI/UX designer who codes**. I like the whole journey from *"why i
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-<br />
 
 <div align="center">
 
