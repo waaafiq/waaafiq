@@ -7,13 +7,11 @@
 
 </div>
 
-<br />
-
-<img src="spongebob.gif" align="right" width="250" alt="SpongeBob typing furiously" />
-
 ### Apa khabar? 👋
 
-- 🇲🇾 Malaysian based in Korea · BM / EN / 한국어
+<img src="spongebob.gif" align="right" width="230" alt="SpongeBob typing furiously" />
+
+- 🇲🇾 Malaysian based in Korea
 - 🎓 ICT Convergence @ **Hanyang University ERICA**
 - 🎨 UI/UX design, creative frontend & graphic design
 - 🔭 Currently working on **ERICA Nav** 🗺️ and an **AI Guitar Coach** 🎸
@@ -22,12 +20,12 @@
 
 ### 📌 Selected work
 
-| Project | Role | Brief |
-|---|---|---|
-| 🗺️ [**ERICA Nav**](https://erica-nav.vercel.app) | UX research · UI design | Ran a survey on wayfinding on campus. 64% struggled to find the room inside a building, so we designed a campus map built around building and room numbers. |
-| ⚽ [**Bolahh**](https://bolahh.com) | UI design · Frontend | Redesign of a live futsal booking platform: tiered player cards with a tilt-and-flip interaction, an achievement badge system and a new landing page. |
-| 🎸 **AI Guitar Coach** | Design · Dev | Real-time guitar coaching with pitch detection. In progress. |
-| 🌐 [**Portfolio**](https://waaafiq-work.vercel.app/) | Design · Frontend | Where the case studies and graphic design live. |
+| Project | Brief |
+|:--|:--|
+| 🗺️&nbsp;[**ERICA&nbsp;Nav**](https://erica-nav.vercel.app)<br /><sub>UX research · UI design</sub> | Ran a survey on wayfinding on campus. 64% struggled to find the room inside a building, so we designed a campus map built around building and room numbers. |
+| ⚽&nbsp;[**Bolahh**](https://bolahh.com)<br /><sub>UI design · Frontend</sub> | Redesign of a live futsal booking platform: tiered player cards with a tilt-and-flip interaction, an achievement badge system and a new landing page. |
+| 🎸&nbsp;**AI&nbsp;Guitar&nbsp;Coach**<br /><sub>Design · Dev</sub> | Real-time guitar coaching with pitch detection. In progress. |
+| 🌐&nbsp;[**Portfolio**](https://waaafiq-work.vercel.app/)<br /><sub>Design · Frontend</sub> | Where the case studies and graphic design live. |
 
 ### 🧰 Toolbox
 
@@ -45,12 +43,12 @@
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+### 📊 Stats
+
 <div align="center">
 
 <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=waaafiq&layout=compact&theme=transparent&title_color=4a9eda&text_color=8ba3ba&hide_border=true" alt="Top languages" />
 <img height="150" src="https://streak-stats.demolab.com?user=waaafiq&theme=transparent&hide_border=true" alt="GitHub streak" />
-
-<br /><br />
 
 ![footer](footer-snow.svg)
 
