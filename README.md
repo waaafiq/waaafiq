@@ -7,9 +7,9 @@
 
 </div>
 
-### Apa khabar? 👋
+<img src="spongebob.gif" align="right" width="280" alt="SpongeBob typing furiously" />
 
-<img src="spongebob.gif" align="right" width="230" alt="SpongeBob typing furiously" />
+### Apa khabar? 👋
 
 - 🇲🇾 Malaysian based in Korea
 - 🎓 ICT Convergence @ **Hanyang University ERICA**
