@@ -8,8 +8,10 @@
 
 ### 🧑‍💻 About me
 - 🎓 Studying **ICT Convergence** at **Hanyang University ERICA**
-- 🔭 Working on **erica-nav**, a campus navigation app for ERICA
-- 🎸 Building an **AI guitar coach** with real-time pitch detection
+- 🔭 Currently working on:
+  - 🗺️ **ERICA Nav**, a campus navigation app for Hanyang ERICA
+  - 🎸 **AI Guitar Coach**, real-time guitar coaching with pitch detection
+- ⚽ Worked on UI design and frontend for **[Bolahh](https://bolahh.com)**, a Malaysian futsal booking and player progression platform
 - 🌐 Portfolio: [waaafiq-work.vercel.app](https://waaafiq-work.vercel.app/)
 
 ### 🛠️ Tech
@@ -26,6 +28,7 @@
 | Project | What it is |
 |---|---|
 | [erica-nav](https://github.com/waaafiq/erica-nav) | Campus navigation for Hanyang ERICA |
+| [Bolahh](https://github.com/amirchoo/Bolahh) | Futsal booking & player progression platform ([bolahh.com](https://bolahh.com)). I built the achievement badge system and redesigned the player cards and landing page |
 | [wafiq.portfolio](https://github.com/waaafiq/wafiq.portfolio) | My personal portfolio site |
 
 ### 📊 Stats
