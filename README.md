@@ -37,6 +37,7 @@
 <img src="https://skillicons.dev/icons?i=ts" width="48" alt="TypeScript" title="TypeScript" />&nbsp;
 <img src="https://skillicons.dev/icons?i=js" width="48" alt="JavaScript" title="JavaScript" />&nbsp;
 <img src="https://skillicons.dev/icons?i=react" width="48" alt="React" title="React" />&nbsp;
+<img src="https://skillicons.dev/icons?i=nextjs" width="48" alt="Next.js" title="Next.js" />&nbsp;
 <img src="https://skillicons.dev/icons?i=html" width="48" alt="HTML" title="HTML" />&nbsp;
 <img src="https://skillicons.dev/icons?i=css" width="48" alt="CSS" title="CSS" />&nbsp;
 <img src="https://skillicons.dev/icons?i=py" width="48" alt="Python" title="Python" />&nbsp;
