@@ -2,8 +2,6 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Hi,%20I'm%20Wafiq%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=4FC3F7&center=true&vCenter=true&width=500&lines=ICT+Convergence+%40+Hanyang+University+ERICA;Building+web+apps+%26+AI+tools;Always+learning+something+new)](https://git.io/typing-svg)
-
 </div>
 
 ### 🧑‍💻 About me
