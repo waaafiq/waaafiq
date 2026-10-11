@@ -24,7 +24,7 @@
 
 | Project | Role | The story |
 |---|---|---|
-| 🗺️ [**ERICA Nav**](https://erica-nav.vercel.app) | UX research · UI design | Ran a survey on how students find their way around campus. 64% struggled to find the room inside a building, so we designed a campus map built around building and room numbers. |
+| 🗺️ [**ERICA Nav**](https://erica-nav.vercel.app) | UX research · UI design | Ran a survey on wayfinding on campus. 64% struggled to find the room inside a building, so we designed a campus map built around building and room numbers. |
 | ⚽ [**Bolahh**](https://bolahh.com) | UI design · Frontend | Redesign of a live futsal booking platform: tiered player cards with a tilt-and-flip interaction, an achievement badge system and a new landing page. |
 | 🎸 **AI Guitar Coach** | Design · Dev | Real-time guitar coaching with pitch detection. In progress. |
 | 🌐 [**Portfolio**](https://waaafiq-work.vercel.app/) | Design · Frontend | Where the case studies and graphic design live. |
