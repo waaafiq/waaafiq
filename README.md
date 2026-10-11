@@ -9,7 +9,7 @@
 
 <img src="spongebob.gif" align="right" width="280" alt="SpongeBob typing furiously" />
 
-### Apa khabar? 👋
+### Apa khabar?
 
 - 🇲🇾 Malaysian based in Korea
 - 🎓 ICT Convergence @ **Hanyang University ERICA**
