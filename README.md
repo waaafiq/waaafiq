@@ -63,9 +63,6 @@ Always happy to chat about design, frontend or guitar 🎸
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wafiq-hairulnizal-0a0a393b9/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://waaafiq-work.vercel.app/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hakeemwafiq04@gmail.com)
-
-<sub>hakeemwafiq04@gmail.com</sub>
 
 </div>
 
