@@ -7,6 +7,7 @@
 </div>
 
 ### 🧑‍💻 About me
+- 🇲🇾 From **Malaysia**, studying in Korea
 - 🎓 Studying **ICT Convergence** at **Hanyang University ERICA**
 - 🔭 Currently working on:
   - 🗺️ **ERICA Nav**, a campus navigation app for Hanyang ERICA
