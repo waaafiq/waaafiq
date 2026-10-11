@@ -14,7 +14,7 @@
 - 🇲🇾 Malaysian based in Korea
 - 🎓 ICT Convergence @ **Hanyang University ERICA**
 - 🎨 UI/UX design, creative frontend & graphic design
-- 📊 Data analytics, UX research & statistics
+- 📈 Data analytics, UX research & statistics
 - 🔭 Currently working on **ERICA Nav** 🗺️ and an **AI Guitar Coach** 🎸
 
 <br clear="right" />
