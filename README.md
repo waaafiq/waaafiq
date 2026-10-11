@@ -17,7 +17,6 @@
 - 🎓 ICT Convergence @ **Hanyang University ERICA**
 - 🎨 UI/UX design, creative frontend & graphic design
 - 🔭 Currently working on **ERICA Nav** 🗺️ and an **AI Guitar Coach** 🎸
-- 🌱 Exploring AI, computer vision, 3D, technical art, automation & cloud
 
 <br clear="right" />
 
