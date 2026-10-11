@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Hi,%20I'm%20Wafiq%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn)
+![header](header.svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wafiq-hairulnizal-0a0a393b9/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://waaafiq-work.vercel.app/)
@@ -46,6 +46,6 @@
 
 <div align="center">
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer)
+![footer](footer.svg)
 
 </div>
