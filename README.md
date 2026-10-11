@@ -30,14 +30,13 @@
 
 ### 🧰 Toolbox
 
-**Design**<br />
+<div align="center">
+
 <img src="https://skillicons.dev/icons?i=figma" width="48" alt="Figma" title="Figma" />&nbsp;
 <img src="icons/affinity.svg" width="48" alt="Affinity by Canva" title="Affinity by Canva" />&nbsp;
 <img src="https://skillicons.dev/icons?i=ai" width="48" alt="Adobe Illustrator" title="Adobe Illustrator" />&nbsp;
-<img src="https://skillicons.dev/icons?i=ae" width="48" alt="Adobe After Effects" title="Adobe After Effects" />&nbsp;
-<img src="icons/spss.svg" width="48" alt="IBM SPSS" title="IBM SPSS" />
-
-**Build**<br />
+<img src="https://skillicons.dev/icons?i=ae" width="48" alt="Adobe After Effects" title="Adobe After Effects" />
+<br />
 <img src="https://skillicons.dev/icons?i=ts" width="48" alt="TypeScript" title="TypeScript" />&nbsp;
 <img src="https://skillicons.dev/icons?i=js" width="48" alt="JavaScript" title="JavaScript" />&nbsp;
 <img src="https://skillicons.dev/icons?i=react" width="48" alt="React" title="React" />&nbsp;
@@ -46,6 +45,8 @@
 <img src="https://skillicons.dev/icons?i=py" width="48" alt="Python" title="Python" />&nbsp;
 <img src="https://skillicons.dev/icons?i=vercel" width="48" alt="Vercel" title="Vercel" />&nbsp;
 <img src="https://skillicons.dev/icons?i=git" width="48" alt="Git" title="Git" />
+
+</div>
 
 ### 📊 Stats
 
